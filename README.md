@@ -49,6 +49,16 @@
 
 - Evaluated order processing time, shipping costs, and supplier performance to streamline operations and reduce costs.
 
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository: `git clone [repository_link]`
+2. Open the project in Power BI Desktop.
+3. Explore the dashboard visuals and interact with the slicers for filtering options.
+4. Review the documentation for additional insights and details.
+
+
 
 
 
